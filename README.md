@@ -4,8 +4,6 @@ This project is a responsive clone of Spotify's web application built using only
 
 ## Project Preview
 
-![image](https://github.com/voidsoul-host/spotify-clone/assets/120613863/9f58a17b-b205-42db-a09a-e13d8d127131)
-![image](https://github.com/voidsoul-host/spotify-clone/assets/120613863/fd6dc284-2469-4741-bc39-bdffbfca5b46)
 
 
 
